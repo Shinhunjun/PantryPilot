@@ -10,7 +10,12 @@ Our project, **PantryPilot AI**, was recognized for innovation and technical mas
 </p>
 # 🥢 PantryPilot – Data Pipeline & Model Development
 
-**Group 16 · Personalized Grocery Forecasting & Constraint-Aware Recipe Assistant**
+## 🧩 Project Overview
+Here is the comprehensive workflow of **PantryPilot AI**, illustrating the cycle from inventory management to DPO-based model optimization.
+
+<p align="center">
+  <img src="./Poster.png" width="800">
+</p>
 
 ![Tests](https://github.com/abhikothari091/PantryPilot/workflows/Tests/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
@@ -1201,6 +1206,7 @@ From a full MLOps perspective, this project demonstrates:
 - CI hooks to prevent obvious regressions in both pipeline and model evaluation code
 
 Overall, PantryPilot moves from synthetic inventory data → clean, validated tables → LLM-based recipe generation with measured behavior across multiple user segments. That matches the course goal: not just training a model, but integrating it into a reproducible, observable, and evaluable system.
+
 
 
 
